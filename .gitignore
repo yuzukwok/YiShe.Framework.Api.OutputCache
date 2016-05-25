@@ -4,5 +4,5 @@
 
 /build
 /packages
-/.vs/YiShe.Framework.Api.OutputCache/v14
-/YiShe.Framework.Api.OutputCache/obj/Debug
+/.vs
+/YiShe.Framework.Api.OutputCache/obj
