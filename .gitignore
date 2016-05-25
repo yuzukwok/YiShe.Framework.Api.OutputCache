@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/build
+/packages
+/.vs/YiShe.Framework.Api.OutputCache/v14
+/YiShe.Framework.Api.OutputCache/obj/Debug
